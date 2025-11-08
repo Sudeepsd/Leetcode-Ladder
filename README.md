@@ -26,5 +26,20 @@ Each solution is written in **C++**, focusing on:
 | 13 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)| 🟢 1139 | [1351](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1351.cpp) |
 | 14 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/)| 🟢 1140 | [3190](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3190.cpp) |
 | 15 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)| 🟢 1140 | [1295](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1295.cpp) |
-|  | []()| 🟢  | [](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/.cpp) |
+| 16 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/)| 🟢 1140 | [2894](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2894.cpp) |
+| 17 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship/)| 🟢 1140 | [3492](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3492.cpp) |
+| 18 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| 🟢 1141 | [1281](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1281.cpp) |
+| 19 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)| 🟢 1142 | [2798](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2798.cpp) |
+| 20 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| 🟢 1143 | [1137](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1137.cpp) |
+| 21 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)| 🟢 1145 | [1913a](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1913a.cpp) <br> [1913b](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1913b.cpp) |
+| 22 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)| 🟢 1145 | [2413](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2000/2413.cpp) |
+| 23 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)| 🟢 1148 | [2733](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2733.cpp) |
+| 24 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product/)| 🟢 1149 | [3622](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3500/3622.cpp) |
+| 25 | [Count Pairs That Form a Complete Day I](https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/)| 🟢 1150 | [3184](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3184.cpp) |
+| 26 | [Minimum Operations to Exceed Threshold Value I](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-i/)| 🟢 1150 | [3065](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3065.cpp) |
+| 27 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three/)| 🟢 1151 | [2455](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2000/2455.cpp) |
+| 28 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)| 🟢 1151 | [1290](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1290.cpp) |
+| 29 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)| 🟢 1152 | [1460a](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1460a.cpp) <br> [1460b](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1460b.cpp) |
+| 30 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/)| 🟢 1152 | [2778](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2778.cpp) |
+| 31 | []()| 🟢  | [](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/.cpp) |
 |  | []()| 🟢  | [](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/.cpp) |

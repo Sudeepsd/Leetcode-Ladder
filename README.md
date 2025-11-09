@@ -30,7 +30,7 @@ Each solution is written in **C++**, focusing on:
 | 17 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship/)| 🟢 1140 | [3492](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3492.cpp) |
 | 18 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)| 🟢 1141 | [1281](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1281.cpp) |
 | 19 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)| 🟢 1142 | [2798](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2798.cpp) |
-| 20 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| 🟢 1143 | [1137](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1137.cpp) |
+| 20 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/)| 🟢 1143 | [1137](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1137.cpp) |
 | 21 | [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)| 🟢 1145 | [1913a](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1913a.cpp) <br> [1913b](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1913b.cpp) |
 | 22 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/)| 🟢 1145 | [2413](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2000/2413.cpp) |
 | 23 | [Neither Minimum nor Maximum](https://leetcode.com/problems/neither-minimum-nor-maximum/)| 🟢 1148 | [2733](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2733.cpp) |
@@ -41,5 +41,20 @@ Each solution is written in **C++**, focusing on:
 | 28 | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/)| 🟢 1151 | [1290](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1290.cpp) |
 | 29 | [Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-subarrays/)| 🟢 1152 | [1460a](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1460a.cpp) <br> [1460b](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1460b.cpp) |
 | 30 | [Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/)| 🟢 1152 | [2778](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2778.cpp) |
-| 31 | []()| 🟢  | [](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/.cpp) |
+| 31 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)| 🟢 1152 | [2828](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2828.cpp) |
+| 32 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)| 🟢 1152 | [1365a](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1365a.cpp) <br> [1365b](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1365b.cpp) |
+| 33 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/)| 🟢 1152 | [2089](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2000/2089.cpp) |
+| 34 | [Score of a String](https://leetcode.com/problems/score-of-a-string/)| 🟢 1152 | [3110](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3110.cpp) |
+| 35 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/)| 🟢 1152 | [3146](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3146.cpp) |
+| 36 | [Special Array I](https://leetcode.com/problems/special-array-i/)| 🟢 1153 | [3151](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3151.cpp) |
+| 37 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature/)| 🟢 1153 | [2469](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2000/2469.cpp) |
+| 38 | [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)| 🟢 1155 | [1502a](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1502a.cpp) <br> [1502b](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1502b.cpp)|
+| 39 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/)| 🟢 1155 | [2351](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2000/2351.cpp) |
+| 40 | [Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/)| 🟢 1158 | [2903a](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2903a.cpp) <br> [2903b](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2903b.cpp) |
+| 41 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)| 🟢 1160 | [1920](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1920.cpp) |
+| 42 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/)| 🟢 1161 | [3131](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3131.cpp) |
+| 43 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)| 🟢 1161 | [1512](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1512.cpp) |
+| 44 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| 🟢 1162 | [961](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/500/961.cpp) |
+| 45 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)| 🟢 1163 | [2278](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2000/2278.cpp) |
+|  | []()| 🟢  | [](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/.cpp) |
 |  | []()| 🟢  | [](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/.cpp) |

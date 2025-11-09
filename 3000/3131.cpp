@@ -12,3 +12,6 @@ public:
 // aligned, then the maximum (and minimum) values must also have the same 
 // difference. Find the maximum element (or minimum element) of both arrays and
 // return their difference. 
+
+// Time Complexity: O(n), n = nums1.size = nums2.size; one pass to find max
+// Space Complexity: O(1)

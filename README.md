@@ -7,6 +7,19 @@ Each solution is written in **C++**, focusing on:
 - 💬 **Alternative methods** (when applicable)
 - 🧩 **Well-structured code and categorized problems**
 
+## How I Approach Problems
+
+I set a timer for each problem based on its difficulty:
+* **Easy:** 15 minutes
+* **Medium:** 30 minutes
+* **Hard:** 45 minutes
+
+I read the question and try to solve it my own way. I try to solve ignoring the constraints in the beginning. I like to crack it on my own, and if i feel like i am pretty close to the answer, i keep going even if the timer runs out. Sometimes I use a pen and paper to  sketch things out to visualize the logic or example better.
+
+If the timer runs out and i am still stuck, i ask ChatGPT for a small hint or some intuition. If i dont understand a concept, i try to learn the concept or the solution, and then try to solve it again on my own to make sure it actually clicks.
+
+Once i finally solve the problem, i check if my solution is optimal. If its not, i look for tips in ChatGPT to make it better. And when i have the optimal code, i ask ChatGPT to refine my code — mostly because i suck at naming variables or keeping a consistent style.
+
 ## 📘 Structure
 
 | # | Problem Statement | Difficulty | Solution |
@@ -56,5 +69,20 @@ Each solution is written in **C++**, focusing on:
 | 43 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)| 🟢 1161 | [1512](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1512.cpp) |
 | 44 | [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/)| 🟢 1162 | [961](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/500/961.cpp) |
 | 45 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/)| 🟢 1163 | [2278](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2000/2278.cpp) |
+| 46 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/)| 🟢 1162 | [3274](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3274.cpp) |
+| 47 | [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/)| 🟢 1163 | [3232](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3232.cpp) |
+| 48 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)| 🟢 1164 | [1342](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1342.cpp) |
+| 49 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/)| 🟢 1164 | [3289](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3289.cpp) |
+| 50 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/)| 🟢 1164 | [1374](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1374.cpp) |
+| 51 | [Find Closest Person](https://leetcode.com/problems/find-closest-person/)| 🟢 1164 | [3516](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3500/3516.cpp) |
+| 52 | [Remove Trailing Zeros From a String](https://leetcode.com/problems/remove-trailing-zeros-from-a-string/)| 🟢 1165 | [2710](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2710.cpp) |
+| 53 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)| 🟢 1165 | [771](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/500/771.cpp) |
+| 54 | [Final Value of Variable After Performing Operations](https://leetcode.com/problems/final-value-of-variable-after-performing-operations/)| 🟢 1165 | [2011](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2000/2011.cpp) |
+| 55 | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/)| 🟢 1165 | [1446](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1000/1446.cpp) |
+| 56 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/)| 🟢 1166 | [3467](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3467.cpp) |
+| 57 | [Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)| 🟢 1166 | [2824](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/2500/2824.cpp) |
+| 58 | [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/)| 🟢 1166 | [3285](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/3000/3285.cpp) |
+| 59 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| 🟢 1167 | [1768](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1768.cpp) |
+| 60 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)| 🟢 1167 | [1832](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/1500/1832.cpp) |
 |  | []()| 🟢  | [](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/.cpp) |
 |  | []()| 🟢  | [](https://github.com/Sudeepsd/Leetcode-Ladder/blob/main/.cpp) |
